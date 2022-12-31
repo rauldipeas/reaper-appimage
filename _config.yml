@@ -1,0 +1,6 @@
+remote_theme: rauldipeas/hacker
+plugins:
+- jekyll-remote-theme
+title: REAPER AppImage
+description:  Script to pack Reaper as AppImage
+favicon: https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/Papirus/32x32/apps/cockos-reaper.svg
